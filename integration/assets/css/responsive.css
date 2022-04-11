@@ -1,0 +1,18 @@
+@media only screen and (max-width: 991px) {
+    .container-header ul {
+        margin-top: 20px;
+        margin-bottom: 15px !important;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .image-slider {
+        /*margin: auto !important;*/
+    }
+}
+
+@media only screen and (max-width: 1368px) {
+    .position-container-left{
+        margin-left: 80px;
+    }
+}
